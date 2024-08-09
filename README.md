@@ -1,3 +1,3 @@
 # Personalization_Privacy_AI
 
-Preliminary datachecms for the pilot
+Preliminary datachecks for the pilot
